@@ -14,7 +14,7 @@
 ```csharp
 public class Developer
 {
-    public string Name { get; } = "Your Name";
+    public string Name { get; } = "Inseok Joo";
     public string Role { get; } = "Full-Stack .NET Developer";
     public string Location { get; } = "Seoul, South Korea 🇰🇷";
     public string[] Stack { get; } = { "C#", "ASP.NET Core", "Blazor" };
