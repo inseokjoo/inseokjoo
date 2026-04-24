@@ -52,27 +52,12 @@ public class Developer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inseokjoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inseokjoo&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats-alpha-ashy-98.vercel.app/api?username=inseokjoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-alpha-ashy-98.vercel.app/api/top-langs/?username=inseokjoo&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=inseokjoo&theme=tokyonight" />
-
-</div>
-
----
-
-### 🏆 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/inseokjoo/PROJECT1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=inseokjoo&repo=PROJECT1&theme=tokyonight" />
-</a>
-<a href="https://github.com/inseokjoo/PROJECT2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=inseokjoo&repo=PROJECT2&theme=tokyonight" />
-</a>
 
 </div>
 
