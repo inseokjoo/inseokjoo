@@ -2,7 +2,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;C%23+%7C+ASP.NET+Core+%7C+Blazor+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Inseok+Joo+%F0%9F%91%8B;C%23+%7C+ASP.NET+Core+%7C+Blazor+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
   </a>
 
 </div>
@@ -52,12 +52,12 @@ public class Developer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=inseokjoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inseokjoo&layout=compact&langs_count=8&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=inseokjoo&theme=tokyonight" />
 
 </div>
 
@@ -67,29 +67,17 @@ public class Developer
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/PROJECT1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=tokyonight" />
+<a href="https://github.com/inseokjoo/PROJECT1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=inseokjoo&repo=PROJECT1&theme=tokyonight" />
 </a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=tokyonight" />
+<a href="https://github.com/inseokjoo/PROJECT2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=inseokjoo&repo=PROJECT2&theme=tokyonight" />
 </a>
 
 </div>
 
 ---
 
-### 📫 Connect with Me
-
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=512BD4&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=inseokjoo&label=Profile%20Views&color=512BD4&style=flat" alt="Profile views" />
 </div>
