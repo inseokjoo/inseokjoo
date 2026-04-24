@@ -1,68 +1,84 @@
-<!-- 상단 배너 (타이핑 애니메이션) -->
-<div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=512BD4&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Inseok+Joo+%F0%9F%91%8B;C%23+%7C+ASP.NET+Core+%7C+Blazor+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-  </a>
+<h1 align="center">
+  Hey there, I'm Inseok 👋
+</h1>
 
-</div>
+<p align="center">
+  <i>풀스택 .NET 개발자 · C# / ASP.NET Core / Blazor</i>
+</p>
 
----
-
-### 🧑‍💻 About Me
-
-```csharp
-public class Developer
-{
-    public string Name { get; } = "Inseok Joo";
-    public string Role { get; } = "Full-Stack .NET Developer";
-    public string Location { get; } = "Seoul, South Korea 🇰🇷";
-    public string[] Stack { get; } = { "C#", "ASP.NET Core", "Blazor" };
-    public string CurrentFocus { get; set; } = "Building clean, scalable web apps";
-
-    public string SayHi() => "Thanks for stopping by! ✨";
-}
-```
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-alpha-ashy-98.vercel.app/api?username=inseokjoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-alpha-ashy-98.vercel.app/api/top-langs/?username=inseokjoo&layout=compact&langs_count=8&theme=tokyonight&count_private=true" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=800&color=8B7EC8&center=true&vCenter=true&width=500&lines=Building+things+with+.NET;Curious+about+clean+architecture;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=inseokjoo&theme=tokyonight" />
+### 🛠️ &nbsp;What I work with
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
----
+<br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=inseokjoo&label=Profile%20Views&color=512BD4&style=flat" alt="Profile views" />
-</div>
+### 💭 &nbsp;Thought of the day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+<br/>
+
+### 📊 &nbsp;The numbers
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-alpha-ashy-98.vercel.app/api?username=inseokjoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=450" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats-alpha-ashy-98.vercel.app/api/top-langs/?username=inseokjoo&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true&card_width=450" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=inseokjoo&theme=tokyonight&hide_border=true" />
+</p>
+
+<br/>
+
+### 📈 &nbsp;Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inseokjoo&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<br/>
+
+### 🐍 &nbsp;Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inseokjoo/inseokjoo/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inseokjoo/inseokjoo/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inseokjoo/inseokjoo/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=inseokjoo&label=visitors&color=8B7EC8&style=flat" />
+</p>
